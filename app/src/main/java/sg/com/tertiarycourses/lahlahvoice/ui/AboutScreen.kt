@@ -66,7 +66,7 @@ fun AboutScreen(modifier: Modifier = Modifier) {
                 }
                 Spacer(Modifier.size(10.dp))
                 Text(
-                    "LahLah Voice removes the ums, follows your corrections and writes what you intended. Speech recognition and editing run on your phone, with Gemini Nano where available.",
+                    "LahLah Voice removes the ums, follows your corrections and writes what you intended, with Gemini Nano on phones that have it.",
                     color = Brand.ink,
                 )
             }
@@ -75,7 +75,7 @@ fun AboutScreen(modifier: Modifier = Modifier) {
             Card {
                 Text("Your privacy", fontWeight = FontWeight.SemiBold, color = Brand.ink)
                 Text(
-                    "No account, no servers, no tracking. Your voice and text stay on this phone. LahLah Voice uses your phone's on-device speech recogniser when it has one.",
+                    "No account and no LahLah Voice servers. Your dictation history stays on this phone. Speech is recognised on the phone when it has the language pack; otherwise your phone's speech service processes it. Gemini Nano runs on the phone, and Google's ML Kit sends Google anonymous diagnostics such as timings and error codes, never your words.",
                     color = Brand.muted, fontSize = 14.sp,
                 )
                 Spacer(Modifier.size(8.dp))

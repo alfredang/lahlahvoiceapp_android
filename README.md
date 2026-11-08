@@ -2,7 +2,7 @@
 
 Say what you mean, in any app. LahLah Voice turns natural speech into finished text: it removes
 pause fillers and false starts, follows spoken corrections ("Tuesday, no wait, Wednesday"), and
-writes what you intended. Speech recognition and editing run on the phone.
+writes what you intended, with Gemini Nano on phones that have it.
 
 This is the Android version of [LahLah Voice for Mac and iPhone](https://github.com/alfredang/lahlahvoiceapp).
 
@@ -71,7 +71,11 @@ Release signing reads `keystore.properties` and `upload-keystore.jks`, which are
 
 ## Privacy and terms
 
-No account, no server, no analytics. See the
+No account and no LahLah Voice server. Dictation history stays on the phone. Speech is recognised on
+the phone when it has the language pack, otherwise by the phone's speech service. Google's ML Kit
+(which runs Gemini Nano) sends Google anonymous diagnostics such as timings and error codes, never the
+text. The Play Data safety form declares voice recordings (processed ephemerally), diagnostics and
+device IDs. See the
 [privacy policy](https://www.tertiaryinfotech.com/privacy) and
 [terms of service](https://www.tertiaryinfotech.com/terms).
 

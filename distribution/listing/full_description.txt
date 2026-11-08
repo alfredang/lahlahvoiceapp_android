@@ -1,0 +1,28 @@
+Say what you mean, in any app. LahLah Voice turns natural speech into clean, finished text. It removes the ums and false starts, follows your corrections and writes what you intended.
+
+SPEAK NATURALLY
+• Fillers such as um, uh and "you know" are removed.
+• Stutters and repeated words are tidied up.
+• Change your mind mid-sentence: "Let's meet Tuesday, no wait, Wednesday" becomes "Let's meet Wednesday."
+• Say "scratch that" to delete what you just said, and "new line" or "question mark" for punctuation.
+• Lists you speak ("first… second… third…") become numbered lists.
+
+DICTATE IN ANY APP
+Turn on the LahLah Voice keyboard and dictate straight into WhatsApp, Telegram, Gmail, ChatGPT, notes or any other app. Tap the mic, speak, tap again, and the finished text appears where you're typing. You can also dictate inside the app, then copy or share the result.
+
+UNDERSTANDS WHAT YOU MEANT
+On phones with Gemini Nano, such as the Pixel 9 and Galaxy S25, LahLah Voice uses Google's on-device AI to work out what you meant, fix words the recogniser misheard and match your writing style. It never answers or acts on what you dictate; it only writes it down. Other phones use LahLah Voice's built-in rules.
+
+MAKE IT YOURS
+• Writing styles: Clear and concise, Casual, Polished, Very casual or As spoken.
+• About you: notes such as "I teach group theory" help it hear the right words.
+• A sample of your writing lets it match your tone.
+• A dictionary for names and terms you want spelled your way.
+
+PRIVATE BY DESIGN
+No account, no ads and no LahLah Voice servers. Your dictation history stays on your phone. Speech is recognised on the phone when it has the language pack; otherwise your phone's speech service processes it. Gemini Nano runs on the phone, and Google's ML Kit sends Google anonymous diagnostics, never your words.
+
+Also available for Mac and iPhone.
+
+Privacy policy: https://www.tertiaryinfotech.com/privacy
+Terms of service: https://www.tertiaryinfotech.com/terms

@@ -15,4 +15,7 @@ All notable changes to LahLah Voice for Android. Format: [Keep a Changelog](http
 - Dictionary for names and terms, and dictation history on the phone.
 
 ### Play submission
-- Production track, Singapore and all other countries, submitted 2026-11-08.
+- Corporate account (Tertiary Infotech Academy Pte Ltd), package `sg.com.tertiarycourses.lahlahvoice`.
+- Production track, full rollout, 178 countries and regions. Sent for review 2026-11-08.
+- Data safety: voice recordings (processed ephemerally, app functionality), diagnostics and device
+  IDs (Google ML Kit, analytics). Nothing shared. Content rating: all "No". Target audience 18+.
