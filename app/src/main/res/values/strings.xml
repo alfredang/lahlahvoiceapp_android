@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LahLah Voice</string>
+    <string name="keyboard_name">LahLah Voice</string>
+    <string name="keyboard_tap_to_speak">Tap the mic and speak. Tap again when you\'re done.</string>
+    <string name="keyboard_listening">Listening…</string>
+    <string name="keyboard_working">Writing…</string>
+    <string name="keyboard_needs_mic">Open LahLah Voice once to allow the microphone.</string>
+    <string name="keyboard_mic">Dictate</string>
+    <string name="keyboard_mic_glyph">🎙</string>
+    <string name="keyboard_switch">Switch keyboard</string>
+    <string name="keyboard_switch_glyph">🌐</string>
+    <string name="keyboard_space">space</string>
+    <string name="keyboard_delete">Delete</string>
+    <string name="keyboard_delete_glyph">⌫</string>
+    <string name="keyboard_enter">Enter</string>
+    <string name="keyboard_enter_glyph">⏎</string>
+</resources>

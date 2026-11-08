@@ -1,0 +1,30 @@
+*.iml
+.gradle/
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+app/build/
+build/
+# Signing & service-account keys — never commit
+keystore.properties
+*.keystore
+*.jks
+*-service-account*.json
+play-*.json
+**/secrets/**
+
+# Secrets & build output (never pushed)
+.env
+.env.*
+.kotlin/
+
+# Distribution archives (rebuildable — never pushed to GitHub)
+*.zip
+
+# Source material the project was derived from — not ours to republish.
+**/reference/
